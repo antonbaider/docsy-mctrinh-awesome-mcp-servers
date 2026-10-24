@@ -188,6 +188,8 @@ Production-ready MCP implementations maintained by platform providers.
 * [ZenML](https://github.com/zenml-io/mcp-zenml) - MCP server to interact with your MLOps and LLMOps pipelines through [ZenML](https://www.zenml.io).
 
 
+* [Docsy](https://github.com/getremcp/docsy-plugin) - Hosted OAuth MCP with five read-only tools for resolving public libraries, identifying indexed versions and retrieving source-linked framework or SDK documentation. Remote endpoint: `https://docsy.remcp.site/mcp/registry`.
+
 ## Community Servers
 
 
